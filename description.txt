@@ -1,0 +1,5 @@
+Première version de la description du projet
+
+Simple ajout de la fonction INIT() en javascritp qui est lancée au chargement du programme.
+
+Il reste plein de chose à faire ...
